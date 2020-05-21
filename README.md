@@ -8,6 +8,8 @@ Data cleaning:
 2. Position: In boundaries(Freiburg/Bremen)
 3. Min Distance: 100m 
 
+NEW: 4. Bike not used for more than 4 days -> maybe broken
+
 TO do`s:
 1. calculate Distance (new column) via maps (not direct!)
 2. get Postalcode via Maps (new column)
