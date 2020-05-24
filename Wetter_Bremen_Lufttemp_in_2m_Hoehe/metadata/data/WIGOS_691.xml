@@ -1,0 +1,2156 @@
+<?xml version="1.0"?>
+<go:station xmlns:go="http://meteoswiss.ch/oscar/xsd/go" xmlns:wmdscl="http://meteoswiss.ch/oscar/xsd/wmdscl" xmlns:gocl="http://meteoswiss.ch/oscar/xsd/gocl" xmlns:dwdcdc="http://dwd.de/cdc/xsd/mesa">
+  <go:StationInfo>
+    <go:StationID>812300149799</go:StationID>
+    <go:wigosID>0-20000-0-691</go:wigosID>
+    <go:stationName>Bremen</go:stationName>
+    <go:stationLongitude>8.7979</go:stationLongitude>
+    <go:stationLatitude>53.045</go:stationLatitude>
+    <go:stationElevation>4</go:stationElevation>
+    <wmdscl:siteInformation/>
+    <wmdscl:country>3-02-68</wmdscl:country>
+    <wmdscl:wmoRegion>3-01- TODO</wmdscl:wmoRegion>
+    <wmdscl:dateEstablished>1796-01-01T00:00:00</wmdscl:dateEstablished>
+    <wmdscl:dateClosed>...</wmdscl:dateClosed>
+  </go:StationInfo>
+  <wmdscl:event>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1796-01-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1803-12-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.08</go:stationLatitude>
+      <go:stationLongitude>8.8</go:stationLongitude>
+      <go:stationElevation>3</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1804-01-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1828-12-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.075111</go:stationLatitude>
+      <go:stationLongitude>8.810673</go:stationLongitude>
+      <go:stationElevation>13.7</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1829-01-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1870-12-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.078499</go:stationLatitude>
+      <go:stationLongitude>8.800352</go:stationLongitude>
+      <go:stationElevation>4.9</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1871-01-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1873-11-30T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.078122</go:stationLatitude>
+      <go:stationLongitude>8.800257</go:stationLongitude>
+      <go:stationElevation>4.7</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1873-12-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1889-03-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.051766</go:stationLatitude>
+      <go:stationLongitude>8.788211</go:stationLongitude>
+      <go:stationElevation>3.22</go:stationElevation>
+      <wmdscl:siteInformation>Am Südrand der Stadt, am Nordostrand des Flughafengeländes. 50 Meter östlich des Flughafenhauptgebäudes. Br/10.01.2014</wmdscl:siteInformation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1889-04-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1890-04-06T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.073884</go:stationLatitude>
+      <go:stationLongitude>8.830811</go:stationLongitude>
+      <go:stationElevation>4</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1890-04-07T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1895-10-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.077305</go:stationLatitude>
+      <go:stationLongitude>8.829958</go:stationLongitude>
+      <go:stationElevation>4</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1895-11-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1934-10-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.094</go:stationLatitude>
+      <go:stationLongitude>8.7415</go:stationLongitude>
+      <go:stationElevation>7</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1934-11-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1935-12-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.094</go:stationLatitude>
+      <go:stationLongitude>8.7415</go:stationLongitude>
+      <go:stationElevation>7</go:stationElevation>
+      <wmdscl:siteInformation>Verlegung durch Kriegszerstörung auf dem Gelände des Flughafens, der Ort ist unbekannt.</wmdscl:siteInformation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1936-01-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1937-09-30T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.0485</go:stationLatitude>
+      <go:stationLongitude>8.799</go:stationLongitude>
+      <go:stationElevation>4</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1937-10-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1945-03-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.0485</go:stationLatitude>
+      <go:stationLongitude>8.799</go:stationLongitude>
+      <go:stationElevation>4</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1945-04-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1947-02-28T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.0485</go:stationLatitude>
+      <go:stationLongitude>8.799</go:stationLongitude>
+      <go:stationElevation>5</go:stationElevation>
+      <wmdscl:siteInformation>Verlegung um 20 m nach Norden um den Einfluss der 3,5 m hohen Nissenhütte auszuschließen.</wmdscl:siteInformation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1947-03-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1947-08-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.09758</go:stationLatitude>
+      <go:stationLongitude>8.81165</go:stationLongitude>
+      <go:stationElevation>3</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1947-09-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1949-01-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.09758</go:stationLatitude>
+      <go:stationLongitude>8.81165</go:stationLongitude>
+      <go:stationElevation>3</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1953-06-21T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.051566</go:stationLatitude>
+      <go:stationLongitude>8.788366</go:stationLongitude>
+      <go:stationElevation>4</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1953-06-22T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1972-03-08T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.051766</go:stationLatitude>
+      <go:stationLongitude>8.788211</go:stationLongitude>
+      <go:stationElevation>3.22</go:stationElevation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1972-03-09T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1973-09-30T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.051947</go:stationLatitude>
+      <go:stationLongitude>8.788227</go:stationLongitude>
+      <go:stationElevation>3.67</go:stationElevation>
+      <wmdscl:siteInformation>Am Südrand der Stadt, am Nordostrand des Flughafengeländes. Ca. 80 Meter nordöstlich des Flughafenhauptgebäudes. Br/10.01.2014</wmdscl:siteInformation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1973-10-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.051947</go:stationLatitude>
+      <go:stationLongitude>8.788227</go:stationLongitude>
+      <go:stationElevation>3.67</go:stationElevation>
+      <wmdscl:siteInformation>Am Südrand der Stadt, am Nordostrand des Flughafengeländes. Ca. 80 Meter nordöstlich des Flughafenhauptgebäudes. Br/10.01.2014</wmdscl:siteInformation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>2008-09-30T00:00:00</gocl:modDTUntil>
+      <go:stationLatitude>53.044508</go:stationLatitude>
+      <go:stationLongitude>8.798507</go:stationLongitude>
+      <go:stationElevation>4.05</go:stationElevation>
+      <wmdscl:siteInformation>Die Station befindet sich am südlichen Stadtrand auf dem Flugplatz Bremen, südlich der Landebahnschwelle 27 im freien Gelände des Flugplatzes.</wmdscl:siteInformation>
+    </wmdscl:eventInfo>
+    <wmdscl:eventInfo>
+      <gocl:modDTFrom>2008-10-01T00:00:00</gocl:modDTFrom>
+      <gocl:modDTUntil>...</gocl:modDTUntil>
+      <go:stationLatitude>53.045015</go:stationLatitude>
+      <go:stationLongitude>8.797904</go:stationLongitude>
+      <go:stationElevation>4.28</go:stationElevation>
+      <wmdscl:siteInformation>Die Station befindet sich am südlichen Stadtrand auf dem Flugplatz Bremen, südlich der Landebahnschwelle 27 im freien Gelände des Flugplatzes.</wmdscl:siteInformation>
+    </wmdscl:eventInfo>
+  </wmdscl:event>
+  <go:observation>
+    <go:observationInfo>
+      <wmdscl:observedVariable>
+        <wmdscl:observedVariableInfo>etc.<gocl:instrument/>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300659790</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TGK :LUFTTEMP_AM_ERDB_MINIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Minimum</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300526286</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_EBM :ERDBODENMINIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300304206</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_EBM :ERDBODENMINIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300639822</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_N :BEDECKUNGSGRAD</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300242446</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RS_IND :NIEDERSCHLAG_GEFALLEN_IND</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1995-09-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300758350</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_NSH :NEUSCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1960-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300943630</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>P :LUFTDRUCK_REDUZIERT</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>327800546667</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_N :BEDECKUNGSGRAD</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300763342</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_NSH :NEUSCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1960-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300896846</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RSKF :NIEDERSCHLAGSHOEHE_IND</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>24 Stunden</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300913678</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RSF :NIEDERSCHLAGSHOEHE_IND</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>24 Stunden</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>2532461327</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>NSH_TAG :NEUSCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1948-12-21T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T06:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>24 Stunden</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300960462</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_TX :LUFTTEMPERATUR_MAXIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300382798</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>FX :WINDSPITZE_MAXIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Maximum</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300170702</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_VPM :DAMPFDRUCK</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300866894</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_TN :LUFTTEMPERATUR_MINIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300531278</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>NM :BEDECKUNGSGRAD</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300135758</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE10 :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300644814</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_TN :LUFTTEMPERATUR_MINIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300321038</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_NSHK :NEUSCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300072142</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>WRTR :NIEDERSCHLAGSFORM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>2001-04-03T01:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300598030</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>FXK :WINDSPITZE_MAXIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1971-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Maximum</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300412750</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>VPM :DAMPFDRUCK</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300583054</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_VPM :DAMPFDRUCK</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300634830</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>N :GESAMT_BEDECKUNGSGRAD</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300820110</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_TX :LUFTTEMPERATUR_MAXIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Feuchte<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>EE33</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2018-11-14T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>EE33</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2014-09-30T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2018-11-13T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Feuchtesonde HMP45D</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2007-01-17T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2014-09-29T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Feuchtesonde HMP45D</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2007-01-16T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Aspirations-Psychrometer nach Aßmann</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1890-04-07T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1895-10-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hygrometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:modDTFrom>1890-04-07T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1895-10-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hygrometer</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1873-12-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1890-04-06T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hygrometer</gocl:instrumentModel>
+              <gocl:observingMethod>Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:modDTFrom>1871-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1873-11-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300701582</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_RF :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300696590</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>UU :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1962-12-23T09:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300160718</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RF_TU :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T01:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-20T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300402766</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>UR :REL_FEUCHTE_REGISTRIERUNG</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1990-07-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300933646</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_RF :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300165710</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TD :TAUPUNKTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300118926</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>UPM :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Luftdruck<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Digitalbarometer PTB 330</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.35</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2020-01-08T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Digitalbarometer PTB 330</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.35</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2018-03-21T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-01-07T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Digitalbarometer PTB 330</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.18</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2016-06-06T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2018-03-20T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Digitalbarometer PTB 330</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.18</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2014-12-16T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2016-06-05T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Luftdrucksensor Vaisala PTB 220</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.18</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2013-06-26T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2014-12-15T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Luftdrucksensor Vaisala PTB 220</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.18</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-31T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2013-06-25T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Digitalbarometer AIR-DB</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.18</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2007-07-29T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Elektrisches Quecksilber Barometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.7</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1829-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1873-11-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>5.18</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1986-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>12.76</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1973-10-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>9.26</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1972-04-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1973-09-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>9.26</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1964-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1972-03-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>9.26</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1959-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1964-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>9.26</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1958-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1959-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>9.26</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1958-10-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>21.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1934-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1935-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>15.8</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1895-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1934-10-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsbarometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Luftdruckmessung, konv.</gocl:observingMethod>
+              <gocl:modDTFrom>1803-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1821-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300000398</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>PM :LUFTDRUCK_STATIONSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300227470</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_P0 :LUFTDRUCK_STATIONSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300649806</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>P0 :LUFTDRUCK_STATIONSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1987-11-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300407758</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_P0 :LUFTDRUCK_STATIONSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Niederschlag<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Niederschlagswächter</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsdauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2016-07-27T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Niederschlags-Detektor</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsdauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2016-07-26T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PLUVIO</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-14T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Niederschlagssensor nach Joss-Tognini</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-20T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1990-09-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-19T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1990-08-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1972-03-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1953-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1972-02-29T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1953-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1945-04-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1949-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1936-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1945-03-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1895-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1935-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Hellmann</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1889-04-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1895-10-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Niederschlagsmesser, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Niederschlagsmenge, konv.</gocl:observingMethod>
+              <gocl:modDTFrom>1796-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1889-03-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Schneepegel</gocl:instrumentModel>
+              <gocl:observingMethod>Schneehöhenmessung, manuell</gocl:observingMethod>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Schneesonde WS 43</gocl:instrumentModel>
+              <gocl:observingMethod>Wasseräquivalentmessung, manuell</gocl:observingMethod>
+              <gocl:modDTFrom>1995-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Schneeausstecher</gocl:instrumentModel>
+              <gocl:observingMethod>Wasseräquivalentmessung, manuell</gocl:observingMethod>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1994-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Schneeausstecher</gocl:instrumentModel>
+              <gocl:observingMethod>Wasseräquivalentmessung, manuell</gocl:observingMethod>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300190670</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RSK :NIEDERSCHLAGSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300876878</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_SH_S :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300666638</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_RR :NIEDERSCHLAGSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300603022</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>SHK_TAG :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T06:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300108942</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>ASH :HOEHE_AUSGESTOCHENER_SCHNEE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1991-01-19T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2001-02-06T07:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>3 Terminwerte, über den Tag verteilt</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>94891152</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>WAAS :WASSERAEQUIV_SCHNEE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-03T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2016-01-07T06:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>2054131943</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>ASH :HOEHE_AUSGESTOCHENER_SCHNEE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-03T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2016-01-07T06:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300345998</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_RR :NIEDERSCHLAGSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300284238</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>SH :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1955-01-12T06:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T18:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300815118</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>WAAS :WASSERAEQUIV_SCHNEE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1990-07-25T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2001-02-06T07:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>3 Terminwerte, über den Tag verteilt</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300052174</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_SH :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>1880259050</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>WASH :WASSERAEQUIV_GESAMTSCHNEE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-03T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2016-01-07T06:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300521294</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RW :WASSERAEQUIV_PRO_CM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1991-02-14T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2016-01-07T06:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>3 Terminwerte, über den Tag verteilt</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300372814</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_SH_S :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300614862</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_SHK :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300995406</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_SH :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300309198</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>SH_TAG :SCHNEEHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T06:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300365966</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>R1 :NIEDERSCHLAGSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1995-09-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300207502</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RS :NIEDERSCHLAGSHOEHE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Strahlung<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2019-09-05T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2017-09-21T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-09-04T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2017-05-04T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2017-09-20T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2016-06-06T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2017-05-03T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2014-06-18T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2016-06-05T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2014-05-02T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2014-06-17T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2013-07-25T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2014-05-01T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2013-03-26T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2013-07-24T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2012-01-20T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2013-03-25T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2007-04-27T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2012-01-19T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>SONIe Sonnenenergie-Sensor</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheindauer, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1990-09-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2007-04-26T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Sonnenscheinschreiber nach Campbell-Stokes</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheinregistrierung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.06</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1990-08-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Sonnenscheinschreiber nach Campbell-Stokes</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheinregistrierung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>16.6</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1973-10-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Sonnenscheinschreiber nach Campbell-Stokes</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheinregistrierung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>10.5</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1973-09-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Sonnenscheinschreiber nach Campbell-Stokes</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheinregistrierung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>9</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1936-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1945-03-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Sonnenscheinschreiber nach Campbell-Stokes</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheinregistrierung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>42</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1895-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1935-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Sonnenscheinschreiber, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Sonnenscheinregistrierung, konv.</gocl:observingMethod>
+              <gocl:modDTFrom>1890-04-07T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1895-10-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>16.8</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1981-01-26T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>16.6</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1973-10-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>10.5</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1970-10-20T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1973-09-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2019-10-21T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2017-10-25T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-10-20T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2015-09-16T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2017-10-24T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2015-08-06T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2015-09-16T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2013-08-28T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2015-08-06T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2011-06-23T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2013-08-28T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-12-10T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2011-06-23T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2011-05-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2011-06-22T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM21</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-30T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-12-10T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2004-09-08T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM5</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:modDTFrom>2003-10-22T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2004-09-08T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2000-03-23T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2003-10-22T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM11</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1994-08-28T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2000-03-23T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM6</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1989-07-06T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1994-08-28T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM6</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1986-04-24T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1989-07-06T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM5</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1982-09-03T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1986-04-24T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Pyranometer CM5</gocl:instrumentModel>
+              <gocl:observingMethod>Strahlungsmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1981-01-26T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1982-09-03T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300748366</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>FD :DIF_HIMMELSSTRAHLUNG_JOULE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>2001-09-26T12:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300918670</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>SDK :SONNENSCHEINDAUER</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300691598</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_SD :SONNENSCHEINDAUER</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300042190</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>FG :GLOBALSTRAHLUNG_JOULE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>2001-04-03T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300232462</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_SD :SONNENSCHEINDAUER</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300397774</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_SD_S :SONNENSCHEINDAUER</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300083982</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>SD :SONNENSCHEINDAUER</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300113934</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_SD_S :SONNENSCHEINDAUER</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1936-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300711566</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>SD_SY :SONNENSCHEINDAUER</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1991-11-06T14:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Summe</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Temperatur (Erdboden)<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-31T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-31T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-31T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.5</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2020-05-07T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-31T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.5</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-10-31T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-29T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2007-01-17T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2007-01-17T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.5</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2005-06-09T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2007-01-16T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2007-01-16T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Erdboden)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2005-06-08T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.02</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-10-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-18T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-18T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-18T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.5</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-18T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-18T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-05-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.5</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-05-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-05-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.1</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-05-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-05-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>-.02</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-05-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1948-08-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1949-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1936-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1949-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1898-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1949-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Erdbodenthermometer, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1895-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1935-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300150734</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TT_ERD :LUFTTEMP_AM_ERDB</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1991-03-19T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300155726</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE02M :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-18T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300723406</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE02 :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-19T07:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300743374</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE20M :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300331022</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE05M :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300548110</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE50 :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-28T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300449550</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE50M :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300429582</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE05 :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300254286</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE100 :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T14:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300841934</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE20 :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300037198</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TE10M :ERDBODENTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1951-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Temperatur (Luft)<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Luft)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Luft)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2008-11-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Luft)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>PT 100 (Luft)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1991-06-19T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Minimumthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Maximumthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Minimumthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1991-06-18T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Maximumthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Minimumthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Minimumthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Minimumthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>.05</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1936-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1949-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Stationsthermometer</gocl:instrumentModel>
+              <gocl:observingMethod>Temperaturmessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>4.9</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1829-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1871-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300454542</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TT_TU :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T01:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-20T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300624846</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_TT :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1851-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300953614</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TNK :LUFTTEMPERATUR_MINIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Minimum</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300706574</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TMK :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300237454</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TXK :LUFTTEMPERATUR_MAXIMUM</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Maximum</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300350990</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_TT :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1851-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300459534</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TT :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Temperatur / Feuchte<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Psychrometerthermometer (feucht)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperatur/Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Psychrometerthermometer (trocken)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperatur/Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2.2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1978-06-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2008-10-30T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Psychrometerthermometer (feucht)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperatur/Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Psychrometerthermometer (trocken)</gocl:instrumentModel>
+              <gocl:observingMethod>Temperatur/Feuchtemessung, konv.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>2</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1949-02-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1978-05-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300624846</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_TT :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1851-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300454542</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TT_TU :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T01:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-20T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300696590</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>UU :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1962-12-23T09:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300706574</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TMK :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300459534</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>TT :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300118926</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>UPM :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300933646</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_RF :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300160718</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>RF_TU :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T01:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-20T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300350990</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_TT :LUFTTEMPERATUR</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1851-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300701582</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_RF :REL_FEUCHTE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300402766</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>UR :REL_FEUCHTE_REGISTRIERUNG</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1990-07-01T07:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Instantan:Instantan oder Messwert für den das Zeitintervall nicht weiter aufgelöst werden kann</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+        <wmdscl:observedVariableInfo>Wind<gocl:instrument>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Windfahne, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Windmessung</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>10</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1947-03-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1949-01-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Windmessanlage, unbekannt</gocl:instrumentModel>
+              <gocl:observingMethod>Windmessung</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>52</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>1829-01-01T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>1935-12-31T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Windsensor Classic 4.3303 (DWDSYN)</gocl:instrumentModel>
+              <gocl:observingMethod>Windmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>10</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2019-05-13T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Windrichtungssensor Classic 4.3121 (DWDSYN)</gocl:instrumentModel>
+              <gocl:observingMethod>Windmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>10</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2019-05-13T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>...</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Windsensor Classic 4.3303 (DWDSYN)</gocl:instrumentModel>
+              <gocl:observingMethod>Windmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>10</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2017-07-27T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-05-12T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+            <gocl:instrumentInfo>
+              <gocl:instrumentModel>Windrichtungssensor Classic 4.3121 (DWDSYN)</gocl:instrumentModel>
+              <gocl:observingMethod>Windmessung, elektr.</gocl:observingMethod>
+              <gocl:distanceFromReferenceSurface>10</gocl:distanceFromReferenceSurface>
+              <gocl:modDTFrom>2017-07-27T00:00:00</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-05-12T00:00:00</gocl:modDTUntil>
+            </gocl:instrumentInfo>
+          </gocl:instrument>
+          <wmdscl:dataProcessingAndReporting>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300088974</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>F :WINDGESCHWINDIGKEIT</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1926-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300753358</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>FF :WINDGESCHWINDIGKEIT</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300047182</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>DD :WINDRICHTUNG</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1949-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-30T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300501326</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>FM :WINDGESCHWINDIGKEIT</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1926-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300289230</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>JA_FK :WINDSTAERKE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2019-01-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Jahr</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300795150</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>D :WINDRICHTUNG</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1975-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T23:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Stunde</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300103950</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>MO_FK :WINDSTAERKE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-04-01T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Monat</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+            <wmdscl:dataProcessingAndReportingInfo>
+              <dwdcdc:mezaId>432300825102</dwdcdc:mezaId>
+              <dwdcdc:mezaDescription>FMK :WINDSTAERKE</dwdcdc:mezaDescription>
+              <gocl:modDTFrom>1890-01-01T00:00:00.000000</gocl:modDTFrom>
+              <gocl:modDTUntil>2020-05-21T00:00:00.000000</gocl:modDTUntil>
+              <wmdscl:processingMethod>Mittelwert</wmdscl:processingMethod>
+              <wmdscl:aggregationPeriod>1 Tag</wmdscl:aggregationPeriod>
+              <wmdscl:referenceTime>undefined</wmdscl:referenceTime>
+              <wmdscl:referenceDate>undefined</wmdscl:referenceDate>
+            </wmdscl:dataProcessingAndReportingInfo>
+          </wmdscl:dataProcessingAndReporting>
+        </wmdscl:observedVariableInfo>
+      </wmdscl:observedVariable>
+    </go:observationInfo>
+  </go:observation>
+</go:station>
