@@ -1,0 +1,111 @@
+{
+  "id" : "51e663a1-bf73-4243-a37d-3269e3c1056e",
+  "type" : "Observation-Collection",
+  "href" : "https://cdc.dwd.de/portal/shortlink/51e663a1-bf73-4243-a37d-3269e3c1056e",
+  "member" : [ {
+    "id" : "TT_TU_MN009",
+    "type" : "Observation",
+    "phenomenonTime" : {
+      "timePeriod" : {
+        "beginPosition" : "2019-05-06",
+        "endPosition" : "2020-01-20"
+      }
+    },
+    "procedure" : {
+      "id" : "TT_TU_MN009",
+      "uuid" : "432300454542",
+      "href" : "urn:x-wmo:md:de.dwd.cdc::TT_TU_MN009",
+      "title" : "Hourly station observations of air temperature at 2 m above ground in °C",
+      "uom" : "°C"
+    },
+    "featureOfInterest" : {
+      "type" : "DataArray",
+      "count" : 1,
+      "record" : {
+        "encoding" : {
+          "blockSeparator" : "newline",
+          "tokenSeparator" : ",",
+          "tokenEnclosing" : "\"",
+          "decimalSign" : "."
+        },
+        "fields" : [ {
+          "ix" : 1,
+          "name" : "SDO_ID",
+          "type" : "string"
+        }, {
+          "ix" : 2,
+          "name" : "SDO_Name",
+          "type" : "string"
+        }, {
+          "ix" : 3,
+          "name" : "Geogr_Laenge",
+          "type" : "double"
+        }, {
+          "ix" : 4,
+          "name" : "Geogr_Breite",
+          "type" : "double"
+        }, {
+          "ix" : 5,
+          "name" : "Hoehe_ueber_NN",
+          "type" : "double"
+        }, {
+          "ix" : 6,
+          "name" : "Metadata_Link",
+          "type" : "string"
+        } ]
+      },
+      "values" : {
+        "href" : "data/sdo_TT_TU_MN009.csv"
+      }
+    },
+    "result" : {
+      "type" : "DataArray",
+      "count" : 6241,
+      "record" : {
+        "fields" : [ {
+          "ix" : 1,
+          "name" : "Produkt_Code",
+          "type" : "string",
+          "description" : "reference to procedure.id"
+        }, {
+          "ix" : 2,
+          "name" : "SDO_ID",
+          "type" : "string",
+          "description" : "reference to featureOfInterest.id"
+        }, {
+          "ix" : 3,
+          "name" : "Zeitstempel",
+          "type" : "datetime",
+          "uom" : {
+            "href" : "http://www.opengis.net/def/uom/ISO-8601/0/Gregorian",
+            "title" : ""
+          }
+        }, {
+          "ix" : 4,
+          "name" : "Wert",
+          "type" : "double",
+          "description" : "value of the procedure at specified point in time in the procuedure.uom"
+        }, {
+          "ix" : 5,
+          "name" : "Qualitaet_Niveau",
+          "type" : "string",
+          "uom" : {
+            "href" : "https://cdc.dwd.de/skos/taxon/qs/Qualitaetsniveau",
+            "title" : ""
+          }
+        }, {
+          "ix" : 6,
+          "name" : "Qualitaet_Byte",
+          "type" : "string",
+          "uom" : {
+            "href" : "https://cdc.dwd.de/skos/taxon/qs/Qualitaetsbyte",
+            "title" : ""
+          }
+        } ]
+      },
+      "values" : {
+        "href" : "data/data_TT_TU_MN009.csv"
+      }
+    }
+  } ]
+}
