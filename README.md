@@ -12,7 +12,7 @@ NEW: 4. Bike not used for more than 4 days -> maybe broken
 
 TO do`s:
 JAN 1. calculate Distance (new column) via maps
-TINA & SYDNE 2. Boundaries!
+TINA & SYDNE 2. Boundaries! -> Everything is in boundaries already! 
 PATRICK 3. get and organize weather data (rain (mm) and °C as extra column)
 
 KPI`s (per hour):
