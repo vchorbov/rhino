@@ -19,5 +19,5 @@ VILI: 2. Density: bikes/area
 JAN 3. Demand: time unused
 SYDNE/TINA 4. Revenue: (basic rate the rental costs 1€ / 30min)
 
-until WED 1800
-KPI's calculate hourly, visualize, find patternstrends, explainations
+until WED 18:00:
+KPI's calculate hourly, visualize, find patterns/trends, explainations
