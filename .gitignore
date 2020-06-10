@@ -133,3 +133,8 @@ dmypy.json
 
 # idea
 .idea/
+
+/generated/
+
+!/generated/.gitkeep
+
