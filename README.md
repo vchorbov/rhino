@@ -15,9 +15,14 @@ PATRICK 3. get and organize weather data (rain (mm) and °C as extra column) ~
 
 KPI`s (per hour):
 CHRIZZ 1. Availability: usage/day/daytime ~
-VILI: 2. Density: bikes/area
-JAN 3. Demand: time unused
-SYDNE/TINA 4. Revenue: (basic rate the rental costs 1€ / 30min)
+VILI: 2. Density: bikes/area X
+JAN 3. Demand: time unused X
+SYDNE/TINA 4. Revenue: (basic rate the rental costs 1€ / 30min) ~
+
+Pat/Jan: Demand/Weather finish
+Sydne/Tina: Revenue finish
+CHrizz: Availability
+
 
 until WED 18:00:
 KPI's calculate hourly, visualize, find patterns/trends, explainations
