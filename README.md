@@ -26,3 +26,5 @@ CHrizz: Availability
 
 until WED 18:00:
 KPI's calculate hourly, visualize, find patterns/trends, explainations
+
+- amount used bikes per hour
