@@ -1,8 +1,9 @@
 Explenation of repository structure:
 
+
 -archive: folder of downloaded data
 
--generated: files that we save from the notebooks will be saved here
+-generated: files that we exported from the notebooks will be saved here
 
 -resources: prepared data to work with in the notebooks
 
